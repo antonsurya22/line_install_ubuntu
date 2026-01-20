@@ -1,13 +1,6 @@
 
-````md
-# LINE on Ubuntu 22.04 (Chromium Extension Method)
 
-LINE does not officially support Linux.  
-This guide shows how to run LINE on **Ubuntu 22.04** using **Chromium (Snap) + LINE Chrome extension**, and make it behave like a native desktop app (Dash & Dock).
-
----
-
-## ✅ Requirements
+## Requirements
 
 - Ubuntu **22.04**
 - Chromium browser (Snap)
